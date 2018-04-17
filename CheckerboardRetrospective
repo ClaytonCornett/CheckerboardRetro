@@ -1,0 +1,15 @@
+1. Reflect on (think about) the work you did for the challenge. How did you do? What did you get right? What did you get wrong? What did you do differently (and possibly better) than what was posted in the solution? What was hard to do?
+  -I got it right except the solution renders the board a bit better than mine. Looking back into the code I found that my listeners were not coded out very neatly. The solution has a lot less lines of code for the listeners and renders flawlessly.
+
+2. How well did you understand the programming concepts and foundational knowledge needed to complete the challenge?
+  - I understand now the importance of listeners especially in the sense that the window resizing will effect the size of the checkerboard. It took a little bit to learn about listeners but now is more helpful to use in many scenarios. 
+
+3. How well did you meet the requirements as set out in the challenge? What requirements did you not meet correctly (if any)?
+  - The requirements in this challenge were made entirely except my version does not render as flawlessly as the solution posted due to slight differences in the listeners.
+
+4. How well does your solution match the posted solution? What is different?
+  - It matches almost exactly except for the listeners used to change the height and width of the checkerboard based off of the window resizing.
+
+5. How could you improve going forward? What don't you still understand that was required for the challenge?
+  - Going forward I could learn more about listeners to fully understand them and figure out how to make using a listener more effective in my projects. 
+
